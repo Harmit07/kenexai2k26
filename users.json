@@ -1,0 +1,13 @@
+{
+  "users": {
+    "PASTE_YOUR_TEACHER_UID_HERE": {
+      "role": "faculty",
+      "email": "teacher@college.edu"
+    },
+    "PASTE_YOUR_STUDENT_UID_HERE": {
+      "role": "student",
+      "student_id": 1,
+      "email": "student@college.edu"
+    }
+  }
+}
